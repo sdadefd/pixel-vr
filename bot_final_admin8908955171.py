@@ -745,7 +745,7 @@ async def error_handler(update: object, context: ContextTypes.DEFAULT_TYPE):
 
 def main():
     if TOKEN == "CHANGE_ME":
-        raise RuntimeError("BOT_TOKEN environment variable set korun, or code e TOKEN boshan.")
+        raise RuntimeError("8955538835:AAFQ0BVY5zJCDRfxT222NVg0SyHREa8mFAY, or code e TOKEN boshan.")
 
     app = Application.builder().token(TOKEN).build()
     app.add_handler(CommandHandler("start", start))
