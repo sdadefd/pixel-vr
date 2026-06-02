@@ -20,7 +20,7 @@ from telegram.ext import (
 # CONFIG
 # =========================
 # Hosting/Koyeb/Render e Environment Variables set korben:
-# BOT_TOKEN=your_bot_token
+# BOT_TOKEN=8955538835:AAFQ0BVY5zJCDRfxT222NVg0SyHREa8mFAY
 # ADMIN_ID=7509920532
 # FORCE_JOIN_CHANNEL=@yourchannel  OR  -1001234567890
 # REF_BONUS=5
