@@ -27,7 +27,7 @@ from telegram.ext import (
 # ORDER_COST=20
 # PAYMENT_BINANCE_ID=850566283
 
-TOKEN = os.getenv("BOT_TOKEN", "CHANGE_ME")
+TOKEN = os.getenv("8955538835:AAFQ0BVY5zJCDRfxT222NVg0SyHREa8mFAY", "CHANGE_ME")
 ADMIN_ID = 8908955171
 # Multiple force-join channels/groups.
 # Public channels/groups can be checked by @username.
